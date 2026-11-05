@@ -1,0 +1,2566 @@
+{
+"1": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1111/ijlh.70275",
+"urls": [],
+"affil": "Department of Clinical Biochemistry, Bispebjerg and Frederiksberg Hospital, Copenhagen, Denmark."
+},
+"2": {
+"pmcid": "PMC13722898",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.1002/ccr3.73830",
+"urls": [
+"https://europepmc.org/articles/PMC13722898",
+"https://europepmc.org/articles/PMC13722898?pdf=render"
+],
+"affil": "Federal University Teaching Hospital Owerri Nigeria."
+},
+"8": {
+"pmcid": "PMC13688856",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.1186/s12885-026-16632-9",
+"urls": [
+"https://europepmc.org/articles/PMC13688856",
+"https://europepmc.org/articles/PMC13688856?pdf=render"
+],
+"affil": "School of Computing, SRM Institute of Engineering and Technology Tiruchirappalli, 621105, Tiruchirappalli, India."
+},
+"14": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.3389/fonc.2026.1939329",
+"urls": [],
+"affil": "Department of Clinical Laboratory, The First Affiliated Hospital of Anhui Medical University, Hefei, Anhui,\u00a0China."
+},
+"16": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.3389/fmed.2026.1902149",
+"urls": [],
+"affil": "Department of Hematology, Fuyang People's Hospital (The Affiliated Fuyang People's Hospital of Anhui Medical University), Fuyang, Anhui, China."
+},
+"20": {
+"pmcid": "PMC13591964",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.1080/19932820.2026.2735579",
+"urls": [
+"https://europepmc.org/articles/PMC13591964",
+"https://europepmc.org/articles/PMC13591964?pdf=render"
+],
+"affil": "Department of Hematology, National Center of Public Health Laboratories, Sana'a, Yemen."
+},
+"24": {
+"pmcid": "PMC13544361",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.2147/jbm.s589556",
+"urls": [
+"https://europepmc.org/articles/PMC13544361",
+"https://europepmc.org/articles/PMC13544361?pdf=render"
+],
+"affil": "Department of Clinical Pathology, Faculty of Medicine Universitas Padjadjaran/Hasan Sadikin General Hospital, Bandung, West Java, Indonesia."
+},
+"40": {
+"pmcid": "PMC13434900",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.1177/11795972261456588",
+"urls": [
+"https://europepmc.org/articles/PMC13434900",
+"https://europepmc.org/articles/PMC13434900?pdf=render"
+],
+"affil": "College of Science and Engineering, Hamad Bin Khalifa University, Qatar Foundation, Doha, Qatar."
+},
+"59": {
+"pmcid": "PMC13440036",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.1186/s12916-026-05036-y",
+"urls": [
+"https://europepmc.org/articles/PMC13440036",
+"https://europepmc.org/articles/PMC13440036?pdf=render"
+],
+"affil": "Department of Laboratory Medicine, West China Hospital of Sichuan University; Sichuan Clinical Research Center for Laboratory Medicine; Clinical Laboratory Medicine Research Center of West China Hospi"
+},
+"63": {
+"pmcid": "PMC13330128",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.1155/crid/6081296",
+"urls": [
+"https://europepmc.org/articles/PMC13330128",
+"https://europepmc.org/articles/PMC13330128?pdf=render"
+],
+"affil": "State Key Laboratory of Oral Diseases & National Center for Stomatology & National Clinical Research Center for Oral Diseases & Department of Periodontics, West China Hospital of Stomatology, Sichuan "
+},
+"67": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1016/j.ajem.2026.06.036",
+"urls": [],
+"affil": "Department of Emergency Medicine, Hiroshima City Hiroshima Citizens Hospital, Japan, 7-33 Motomachi, Naka-ku, Hiroshima City, Hiroshima 730-8518, Japan."
+},
+"83": {
+"pmcid": "PMC13176789",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.7759/cureus.107063",
+"urls": [
+"https://europepmc.org/articles/PMC13176789",
+"https://europepmc.org/articles/PMC13176789?pdf=render"
+],
+"affil": "Pathology, Rajendra Institute of Medical Sciences, Ranchi, IND."
+},
+"100": {
+"pmcid": "PMC13216603",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.1038/s43856-026-01558-x",
+"urls": [
+"https://europepmc.org/articles/PMC13216603",
+"https://europepmc.org/articles/PMC13216603?pdf=render"
+],
+"affil": "Department of Pathology and Laboratory Medicine, Memorial Sloan Kettering Cancer Center, New York, NY, USA. singis@mskcc.org."
+},
+"101": {
+"pmcid": "PMC13073449",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.3390/diagnostics16071039",
+"urls": [
+"https://europepmc.org/articles/PMC13073449",
+"https://europepmc.org/articles/PMC13073449?pdf=render"
+],
+"affil": "Department of Medical Laboratory Science and Technology, Harbin Medical University-Daqing, Daqing 163000, China."
+},
+"106": {
+"pmcid": "PMC13137550",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.1186/s12887-026-06701-0",
+"urls": [
+"https://europepmc.org/articles/PMC13137550",
+"https://europepmc.org/articles/PMC13137550?pdf=render"
+],
+"affil": "Tehran University of Medical Sciences, Tehran, Islamic Republic of Iran."
+},
+"108": {
+"pmcid": "PMC13163947",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.1002/jcla.70206",
+"urls": [
+"https://europepmc.org/articles/PMC13163947",
+"https://europepmc.org/articles/PMC13163947?pdf=render"
+],
+"affil": "Department of Clinical Laboratory, Key Laboratory of Clinical Laboratory Diagnosis and Translational Research of Zhejiang Province, The First Affiliated Hospital of Wenzhou Medical University, Wenzhou"
+},
+"152": {
+"pmcid": "PMC12593920",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.1186/s12885-025-15034-7",
+"urls": [
+"https://europepmc.org/articles/PMC12593920",
+"https://europepmc.org/articles/PMC12593920?pdf=render"
+],
+"affil": "Department of Clinical Laboratory, School of Medicine, Ruijin Hospital, Shanghai Jiaotong University, Shanghai, 200025, China."
+},
+"170": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.24953/turkjpediatr.2025.6171",
+"urls": [],
+"affil": "Department of Pediatric Neurology, Faculty of Medicine, Dokuz Eyl\u00fcl University, \u0130zmir, T\u00fcrkiye."
+},
+"172": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1111/ijlh.14555",
+"urls": [],
+"affil": "Department of Pathology, Rangaraya Medical College, Kakinada, India."
+},
+"177": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.7754/clin.lab.2025.241241",
+"urls": [],
+"affil": ""
+},
+"178": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1111/ijlh.14538",
+"urls": [],
+"affil": "Laboratory Medicine Center, The Second Hospital of Lanzhou University, Lanzhou, China."
+},
+"202": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": null,
+"urls": [],
+"affil": "Department of Clinical Laboratory Sciences, College of Applied Medical Sciences, King Khalid University, Abha, Saudi Arabia szaher@kku.edu.sa."
+},
+"208": {
+"pmcid": "PMC12010105",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.3389/fonc.2025.1572838",
+"urls": [
+"https://europepmc.org/articles/PMC12010105",
+"https://europepmc.org/articles/PMC12010105?pdf=render"
+],
+"affil": "Department of Medical Laboratory, First Affiliated Hospital of Sun Yat-sen University, Guangzhou, China."
+},
+"213": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1007/s13312-025-00064-y",
+"urls": [],
+"affil": "Department of Pediatrics, St. John's Medical College and Hospital, Bengaluru, Karnataka, 560034, India."
+},
+"214": {
+"pmcid": "PMC12239704",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.1111/ijlh.14464",
+"urls": [
+"https://europepmc.org/articles/PMC12239704",
+"https://europepmc.org/articles/PMC12239704?pdf=render"
+],
+"affil": "Department of Biological Hematology, Rouen University Hospital, Rouen, France."
+},
+"216": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1111/ijlh.14470",
+"urls": [],
+"affil": "Clinical Biochemistry Laboratory, \"Maggiore della Carit\u00e0\" University Hospital, Department of Health Sciences, University of Eastern Piedmont, Novara, Italy."
+},
+"236": {
+"pmcid": "PMC11735125",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.3332/ecancer.2024.1790",
+"urls": [
+"https://europepmc.org/articles/PMC11735125",
+"https://europepmc.org/articles/PMC11735125?pdf=render"
+],
+"affil": "Ocean Road Cancer Institute (ORCI), Dar es salaam 11101, Tanzania."
+},
+"237": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1111/ijlh.14424",
+"urls": [],
+"affil": "Computer Vision Institute, College of Computer Science and Software, Shenzhen University, China."
+},
+"271": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1515/cclm-2024-0973",
+"urls": [
+"https://doi.org/10.1515/cclm-2024-0973"
+],
+"affil": "Department of Clinical Biochemistry, Aarhus University Hospital, Aarhus, Denmark."
+},
+"273": {
+"pmcid": "PMC11613657",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.1111/ejh.14303",
+"urls": [
+"https://europepmc.org/articles/PMC11613657",
+"https://europepmc.org/articles/PMC11613657?pdf=render"
+],
+"affil": "Department of Pediatric and Adolescent Medicine, Aalborg University Hospital, Aalborg, Denmark."
+},
+"280": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1093/labmed/lmae077",
+"urls": [],
+"affil": "School of Medical Laboratory Sciences, Institute of Health, Jimma University, Jimma, Ethiopia."
+},
+"296": {
+"pmcid": "PMC11179710",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.7759/cureus.60451",
+"urls": [
+"https://doi.org/10.7759/cureus.60451",
+"https://europepmc.org/articles/PMC11179710",
+"https://europepmc.org/articles/PMC11179710?pdf=render"
+],
+"affil": "Anatomy, King George's Medical University, Lucknow, IND."
+},
+"320": {
+"pmcid": "PMC10939159",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.7759/cureus.54126",
+"urls": [
+"https://europepmc.org/articles/PMC10939159",
+"https://europepmc.org/articles/PMC10939159?pdf=render"
+],
+"affil": "Pathology, Rajendra Institute of Medical Sciences, Ranchi, IND."
+},
+"325": {
+"pmcid": "PMC11115396",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.15537/smj.2024.45.3.20230776",
+"urls": [
+"https://smj.org.sa/content/smj/45/3/295.full.pdf",
+"https://europepmc.org/articles/PMC11115396",
+"https://europepmc.org/articles/PMC11115396?pdf=render"
+],
+"affil": "From the Department of Laboratory and Blood Bank (Adil, Omayma), Aseer Central Hospital; and from the Department of Clinical Laboratory Sciences (Mohammed, Sultan), Faculty of Applied Medical Sciences"
+},
+"328": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.55519/jamc-04-12357",
+"urls": [
+"https://doi.org/10.55519/jamc-04-12357"
+],
+"affil": "Army Medical College, National University of Medical Sciences Rawalpindi."
+},
+"332": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.4103/ijc.ijc_149_20",
+"urls": [
+"https://journals.lww.com/indianjcancer/fulltext/2023/60040/analysis_of_clinical_profile_and_role_of_various.11.aspx"
+],
+"affil": "Department of Peadiatrics, PGIMS, Rohtak, Haryana, India."
+},
+"358": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1111/ijlh.14178",
+"urls": [],
+"affil": "Haematology and Cytology Unit, CORE Laboratory. Biochemistry and Molecular Genetics Department, Biomedical Diagnostic Centre, Hospital Cl\u00ednic of Barcelona, Barcelona, Spain."
+},
+"367": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1097/mph.0000000000002715",
+"urls": [],
+"affil": "Institute of Microbiology and Molecular Genetics, University of the Punjab, Quaid e Azam Campus, Lahore, Pakistan."
+},
+"371": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.29271/jcpsp.2023.07.760",
+"urls": [],
+"affil": "Department of Haematology, Armed Forces Institute of Pathology (AFIP), Rawalpindi, Pakistan."
+},
+"375": {
+"pmcid": "PMC10234042",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.1186/s12969-023-00836-5",
+"urls": [
+"https://doi.org/10.1186/s12969-023-00836-5",
+"https://europepmc.org/articles/PMC10234042",
+"https://europepmc.org/articles/PMC10234042?pdf=render"
+],
+"affil": "Department of Pediatric Rheumatology, National Medical Center, La Raza, IMSS, Vallejo Y Jacarandas, Colonia La Raza, Azcapotzalco, Mexico City, 02990, M\u00e9xico. dr-poncho@hotmail.com."
+},
+"376": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1002/cncr.34890",
+"urls": [],
+"affil": "Department of Laboratory Medicine, West China Hospital, Sichuan University, Chengdu, China."
+},
+"394": {
+"pmcid": "PMC9925435",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.1038/s41598-023-29160-4",
+"urls": [
+"https://europepmc.org/articles/PMC9925435",
+"https://europepmc.org/articles/PMC9925435?pdf=render"
+],
+"affil": "Department of Computer Science, Faculty of Engineering Sciences, University College London, Gower Street, London, WC1E 6BT, UK. p.manescu@ucl.ac.uk."
+},
+"403": {
+"pmcid": "PMC9840561",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.7759/cureus.32571",
+"urls": [
+"https://assets.cureus.com/uploads/original_article/pdf/120403/20230115-14146-zrgrbj.pdf",
+"https://europepmc.org/articles/PMC9840561",
+"https://europepmc.org/articles/PMC9840561?pdf=render"
+],
+"affil": "Department of Pathology, Gandhi Medical College and Hamidia Hospital, Bhopal, IND."
+},
+"417": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1007/s10067-022-06459-7",
+"urls": [],
+"affil": "Department of Rheumatology, Military Hospital, Tunis, Tunisia."
+},
+"422": {
+"pmcid": "PMC9852218",
+"oa": "N",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.1111/bjh.18552",
+"urls": [
+"https://europepmc.org/articles/PMC9852218",
+"https://europepmc.org/articles/PMC9852218?pdf=render",
+"https://doi.org/10.1111/bjh.18552"
+],
+"affil": "Department of Oncology, St. Jude Children's Research Hospital, Memphis, Tennessee, USA."
+},
+"457": {
+"pmcid": "PMC9209545",
+"oa": "N",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.1007/s12288-021-01488-9",
+"urls": [
+"https://europepmc.org/articles/PMC9209545",
+"https://europepmc.org/articles/PMC9209545?pdf=render",
+"https://doi.org/10.1007/s12288-021-01488-9"
+],
+"affil": "Department of Pathology and Laboratory Medicine, All India Institute of Medical Sciences, Bhubaneswar, India."
+},
+"472": {
+"pmcid": "PMC9063147",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.1186/s12969-022-00692-9",
+"urls": [
+"https://ped-rheum.biomedcentral.com/track/pdf/10.1186/s12969-022-00692-9",
+"https://europepmc.org/articles/PMC9063147",
+"https://europepmc.org/articles/PMC9063147?pdf=render"
+],
+"affil": "Department of Pediatrics, Faculty of Medicine, Prince of Songkla University, Hat Yai, Thailand."
+},
+"486": {
+"pmcid": "PMC10869398",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.1007/s12308-022-00484-w",
+"urls": [
+"https://europepmc.org/articles/PMC10869398",
+"https://europepmc.org/articles/PMC10869398?pdf=render"
+],
+"affil": "Department of Clinical Laboratory, Shandong Provincial Hospital Affiliated to Shandong First Medical University, Jinan, 250021, Shandong Province, China."
+},
+"487": {
+"pmcid": "PMC8857978",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.2147/jbm.s346091",
+"urls": [
+"https://www.dovepress.com/getfile.php?fileID=78296",
+"https://europepmc.org/articles/PMC8857978",
+"https://europepmc.org/articles/PMC8857978?pdf=render"
+],
+"affil": "Department of Medical Laboratory Sciences, College of Medicine and Health Sciences, Wollo University, Dessie, Ethiopia."
+},
+"498": {
+"pmcid": "PMC8774626",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.3390/diagnostics12010138",
+"urls": [
+"https://europepmc.org/articles/PMC8774626",
+"https://europepmc.org/articles/PMC8774626?pdf=render"
+],
+"affil": "Baqai Institute of Hematology, Baqai Medical University, Karachi 75340, Pakistan."
+},
+"528": {
+"pmcid": "PMC8304210",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.3390/diagnostics11071237",
+"urls": [
+"https://www.mdpi.com/2075-4418/11/7/1237/pdf?version=1626068931",
+"https://europepmc.org/articles/PMC8304210",
+"https://europepmc.org/articles/PMC8304210?pdf=render"
+],
+"affil": "The College of Computer Science, Sichuan University, Chengdu 610065, China."
+},
+"536": {
+"pmcid": "PMC8253459",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.7759/cureus.15382",
+"urls": [
+"https://europepmc.org/articles/PMC8253459",
+"https://europepmc.org/articles/PMC8253459?pdf=render"
+],
+"affil": "Pediatrics, King George's Medical University, Lucknow, IND."
+},
+"547": {
+"pmcid": "PMC8121867",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.1038/s41698-021-00179-y",
+"urls": [
+"https://europepmc.org/articles/PMC8121867",
+"https://europepmc.org/articles/PMC8121867?pdf=render"
+],
+"affil": "Bloomberg Kimmel Institute for Cancer Immunotherapy, Johns Hopkins University School of Medicine, Baltimore, MD, USA."
+},
+"550": {
+"pmcid": "PMC10512674",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.5146/tjpath.2021.01524",
+"urls": [
+"http://www.turkjpath.org/pdf.php3?id=1962",
+"https://europepmc.org/articles/PMC10512674",
+"https://europepmc.org/articles/PMC10512674?pdf=render"
+],
+"affil": "Department of Pathology, Krishna Institute of Medical Sciences (Deemed to University), MAHARASHTRA, INDIA."
+},
+"556": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1016/j.clml.2021.03.004",
+"urls": [],
+"affil": "Hematology Unit, Department of Internal Medicine, Srinagarind Hospital, Khon Kaen University, Khon Kaen, Thailand. Electronic address: chinwa@kku.ac.th."
+},
+"570": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1016/j.cmpb.2021.105999",
+"urls": [],
+"affil": "Hospital Cl\u00ednic de Barcelona-IDIBAPS, Haematology and Cytology Unit, CORE Laboratory, Biomedical Diagnostic Centre, Spain."
+},
+"574": {
+"pmcid": "PMC7850651",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.1097/md.0000000000024518",
+"urls": [
+"https://europepmc.org/articles/PMC7850651",
+"https://europepmc.org/articles/PMC7850651?pdf=render"
+],
+"affil": "Department of Laboratory Medicine, West China Second University Hospital, Sichuan University."
+},
+"606": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1111/ijlh.13319",
+"urls": [],
+"affil": "Laboratory of External Quality Assessment in Haematology, CORE Laboratory, Department of Biochemistry and Molecular Genetics, Biomedical Diagnostic Center, Hospital Cl\u00ednic, Barcelona, Spain."
+},
+"609": {
+"pmcid": "PMC7418991",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.1371/journal.pone.0237530",
+"urls": [
+"https://europepmc.org/articles/PMC7418991",
+"https://europepmc.org/articles/PMC7418991?pdf=render"
+],
+"affil": "Department of Pediatric and Adolescent Medicine, Aarhus University Hospital, Aarhus, Denmark."
+},
+"616": {
+"pmcid": "PMC7340973",
+"oa": "N",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.1016/j.jor.2020.05.022",
+"urls": [
+"https://europepmc.org/articles/pmc7340973?pdf=render",
+"https://europepmc.org/articles/pmc7340973?pdf=render",
+"https://europepmc.org/articles/pmc7340973?pdf=render",
+"https://europepmc.org/articles/PMC7340973",
+"https://europepmc.org/articles/PMC7340973?pdf=render",
+"https://doi.org/10.1016/j.jor.2020.05.022"
+],
+"affil": "Department of Orthopaedics, Kasturba Hospital, Kasturba Medical College, Manipal Academy of Higher Education, Manipal, India."
+},
+"617": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1177/0954411920938567",
+"urls": [],
+"affil": "Faculty of Industrial Engineering, Urmia University of Technology, Urmia, Iran."
+},
+"650": {
+"pmcid": "PMC6941319",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.1186/s12969-019-0376-8",
+"urls": [
+"https://ped-rheum.biomedcentral.com/counter/pdf/10.1186/s12969-019-0376-8",
+"https://ped-rheum.biomedcentral.com/counter/pdf/10.1186/s12969-019-0376-8",
+"https://europepmc.org/articles/PMC6941319",
+"https://europepmc.org/articles/PMC6941319?pdf=render"
+],
+"affil": "Unit\u00e9 d'Onco-H\u00e9mato-Immunologie p\u00e9diatrique, CHU Angers, 4 rue Larrey, 49933, Angers, France. louvignemathilde@outlook.fr."
+},
+"658": {
+"pmcid": "PMC6859536",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.1016/j.tranon.2019.09.009",
+"urls": [
+"https://europepmc.org/articles/PMC6859536",
+"https://europepmc.org/articles/PMC6859536?pdf=render"
+],
+"affil": "Post-graduate Institute of Life Sciences, National Institute of Blood Disease (NIBD), Karachi, Pakistan; International Center for Chemical and Biological Sciences (ICCBS), University of Karachi, Karac"
+},
+"671": {
+"pmcid": "PMC6741365",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.7759/cureus.5124",
+"urls": [
+"https://europepmc.org/articles/PMC6741365",
+"https://europepmc.org/articles/PMC6741365?pdf=render"
+],
+"affil": "Pathology, Benazir Bhutto Hospital, Rawalpindi, PAK."
+},
+"689": {
+"pmcid": "PMC6500804",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.12669/pjms.35.2.614",
+"urls": [
+"http://pjms.org.pk/index.php/pjms/article/download/614/84",
+"https://europepmc.org/articles/PMC6500804",
+"https://europepmc.org/articles/PMC6500804?pdf=render"
+],
+"affil": "Maria Basharat, MBBS. Pathology Department, Army Medical College, National University of Medical Sciences, Islamabad, Pakistan."
+},
+"703": {
+"pmcid": "PMC6371227",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.1016/j.htct.2018.05.010",
+"urls": [
+"https://europepmc.org/articles/PMC6371227",
+"https://europepmc.org/articles/PMC6371227?pdf=render"
+],
+"affil": "Facultad de Medicina y Hospital Universitario, Universidad Aut\u00f3noma de Nuevo Le\u00f3n, Monterrey, Mexico. Electronic address: carjaime@hotmail.com."
+},
+"730": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1111/ijlh.12935",
+"urls": [
+"https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ijlh.12935"
+],
+"affil": "Clinical Patology Laboratory, A.O.R.N. \"G. Rummo\" di Benevento, Benevento, Italy."
+},
+"733": {
+"pmcid": "PMC6818587",
+"oa": "N",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.1002/jcla.22679",
+"urls": [
+"https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jcla.22679",
+"https://europepmc.org/articles/PMC6818587",
+"https://europepmc.org/articles/PMC6818587?pdf=render",
+"https://doi.org/10.1002/jcla.22679"
+],
+"affil": "Department of Hematology, Post Graduate Institute of Medical Education and Research, Chandigarh, India."
+},
+"776": {
+"pmcid": "PMC5784301",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.4103/jlp.jlp_65_17",
+"urls": [
+"https://europepmc.org/articles/PMC5784301",
+"https://europepmc.org/articles/PMC5784301?pdf=render"
+],
+"affil": "Department of Pathology, Chettinad Hospital and Research Institute, Chennai, Tamil Nadu, India."
+},
+"782": {
+"pmcid": "PMC6816877",
+"oa": "N",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.1002/jcla.22392",
+"urls": [
+"https://europepmc.org/articles/PMC6816877",
+"https://europepmc.org/articles/PMC6816877?pdf=render",
+"https://doi.org/10.1002/jcla.22392"
+],
+"affil": "Department of Oncopathology, Delhi State Cancer Institute, Delhi, India."
+},
+"788": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": null,
+"urls": [],
+"affil": "National Institute of Blood Disease & Bone Marrow Transplantation, Karachi, College of Medicine, Alfaisal University, Riyadh, Saudi Arabia."
+},
+"789": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.31729/jnma.3265",
+"urls": [
+"https://doi.org/10.31729/jnma.3265"
+],
+"affil": "Department of Pathology, Manipal College of Medical Science, Pokhara, Nepal."
+},
+"829": {
+"pmcid": "PMC5501054",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.4103/ijmr.ijmr_324_14",
+"urls": [
+"https://doi.org/10.4103/ijmr.ijmr_324_14",
+"https://europepmc.org/articles/PMC5501054",
+"https://europepmc.org/articles/PMC5501054?pdf=render"
+],
+"affil": "Department of Hematology, Postgraduate Institute of Medical Education & Research, Chandigarh, India."
+},
+"849": {
+"pmcid": "PMC5243135",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.3332/ecancer.2017.712",
+"urls": [
+"https://europepmc.org/articles/PMC5243135",
+"https://europepmc.org/articles/PMC5243135?pdf=render"
+],
+"affil": "Kidwai Memorial Institute of Oncology, Bengaluru 560029, India."
+},
+"861": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1111/ijlh.12575",
+"urls": [],
+"affil": "Department of Hematology, Donostia University Hospital, Donostia, Spain."
+},
+"874": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1016/j.clml.2016.09.003",
+"urls": [],
+"affil": "Department of Hematology, Hospital Universitario Dr. Jos\u00e9 Eleuterio Gonz\u00e1lez, Universidad Aut\u00f3noma de Nuevo Le\u00f3n, Monterrey, Nuevo Le\u00f3n, Mexico. Electronic address: dgomezalmaguer@gmail.com."
+},
+"880": {
+"pmcid": "PMC5011117",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.3343/alm.2016.36.6.607",
+"urls": [
+"https://europepmc.org/articles/PMC5011117",
+"https://europepmc.org/articles/PMC5011117?pdf=render"
+],
+"affil": "Department of Laboratory Medicine, Pusan National University School of Medicine, Pusan National University Hospital, Busan, Korea."
+},
+"881": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1111/ijlh.12547",
+"urls": [],
+"affil": "Department of Laboratory Medicine, University Hospital Policlinico di Modena, Modena, Italy."
+},
+"926": {
+"pmcid": "PMC4758497",
+"oa": "N",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.3399/bjgp16x683989",
+"urls": [
+"https://bjgp.org/content/bjgp/66/644/e182.full.pdf",
+"https://europepmc.org/articles/PMC4758497",
+"https://europepmc.org/articles/PMC4758497?pdf=render",
+"https://doi.org/10.3399/bjgp16x683989"
+],
+"affil": "University of Exeter Medical School, Exeter."
+},
+"934": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.7314/apjcp.2016.17.1.357",
+"urls": [],
+"affil": "Department of Hematology and Blood Bank, Liaquat National Hospital and Medical College, Karachi, Pakistan E-mail : sadiasultan96@yahoo.com."
+},
+"937": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1111/joim.12467",
+"urls": [
+"https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/joim.12467"
+],
+"affil": "Research Unit for General Practice and Section of General Practice, Department of Public Health, University of Copenhagen, Copenhagen, Denmark."
+},
+"942": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.7754/clin.lab.2015.150335",
+"urls": [],
+"affil": ""
+},
+"954": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.7314/apjcp.2015.16.17.7893",
+"urls": [],
+"affil": "Department of Hematology and Blood Bank, Liaquat National Hospital and Medical College, Karachi, Pakistan E-mail : sadiasultan96@yahoo.com."
+},
+"987": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "06.2015/jcpsp.407411",
+"urls": [],
+"affil": "Department of Pathology, CMH, Lahore Medical College, Lahore."
+},
+"991": {
+"pmcid": "PMC4418085",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "N",
+"doi": "10.4103/2278-330x.155648",
+"urls": [
+"https://europepmc.org/articles/PMC4418085"
+],
+"affil": "Department of Pathology and Paediatric Haematology Oncology, Sri Ramachandra Medical College and Research Institute, Chennai, Tamil Nadu, India."
+},
+"996": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1111/ijlh.12371",
+"urls": [],
+"affil": "Department of Laboratory Haematology, University Hospital of Nancy, Vandoeuvre-l\u00e8s-Nancy, France."
+},
+"1021": {
+"pmcid": "PMC4290247",
+"oa": "N",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.7860/jcdr/2014/9042.5169",
+"urls": [
+"https://europepmc.org/articles/PMC4290247",
+"https://europepmc.org/articles/PMC4290247?pdf=render",
+"https://doi.org/10.7860/jcdr/2014/9042.5169"
+],
+"affil": "Post-Graduate Student, Department of Pathology, Government Medical College , Amritsar, India ."
+},
+"1037": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.2350/14-10-1559-let.1",
+"urls": [],
+"affil": "Department of Laboratory Medicine, Laboratorio analisi chimico-cliniche, Azienda Ospedaliero-Universitaria Policlinico di Modena, via del Pozzo 71, 41124, Modena, Italy."
+},
+"1055": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": null,
+"urls": [],
+"affil": "Jens Baggesens vej 33, 1.-6., 8200 Aarhus N, Denmark. ninna_brix@hotmail.com."
+},
+"1069": {
+"pmcid": "PMC4064882",
+"oa": "N",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.7860/jcdr/2014/7854.4298",
+"urls": [
+"https://europepmc.org/articles/PMC4064882",
+"https://europepmc.org/articles/PMC4064882?pdf=render",
+"https://doi.org/10.7860/jcdr/2014/7854.4298"
+],
+"affil": "Assistant Professor, Department of Pathology, JJM Medical College , Davangere, India ."
+},
+"1076": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": null,
+"urls": [],
+"affil": "Dr Naima Islam, Assistant Professor, Department of Haematology, National Institute of Cancer Research and Hospital (NICR&H), Mohakhali, Dhaka, Bangladesh."
+},
+"1080": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.2350/13-08-1321-oa.1",
+"urls": [],
+"affil": "Children's Healthcare of Atlanta, 1405 Clifton Road, NE, Egleston Children's Hospital, Department of Pathology, First Floor, Tower One, Atlanta, GA 30322, USA."
+},
+"1087": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1111/ijlh.12225",
+"urls": [],
+"affil": "Hematology Laboratory, Clalit Health Services, Rabin Medical Center, Petah Tikva, Israel; Hemato-Oncology Laboratory, Felsenstein Medical Research Center, Tel Aviv University, Petah Tikva, Israel."
+},
+"1088": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": null,
+"urls": [],
+"affil": "Department of Laboratory Medicine, College of Medicine, the Catholic University of Korea, Seoul St. Mary's Hospital, 505 Banpo-dong, Seocho-gu, Seoul 137-701, South Korea; phone: +82 2 2258 1644; fax:"
+},
+"1106": {
+"pmcid": "PMC3858929",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.12669/pjms.295.3865",
+"urls": [
+"https://europepmc.org/articles/PMC3858929",
+"https://europepmc.org/articles/PMC3858929?pdf=render"
+],
+"affil": "Dr. Anwar Zeb Jan, MRCP, Pediatric Department Rehman Medical Institute, Peshawar, Pakistan."
+},
+"1107": {
+"pmcid": "PMC3858928",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.12669/pjms.295.3458",
+"urls": [
+"https://europepmc.org/articles/PMC3858928",
+"https://europepmc.org/articles/PMC3858928?pdf=render"
+],
+"affil": "Dr. Kirpal Das Makheja, Senior Registrar, Jinnah Postgraduate Medical Center (JPMC), Karachi, Pakistan."
+},
+"1124": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": null,
+"urls": [],
+"affil": "Department of Pathology, Manipal College of Medical Sciences and Manipal Teaching Hospital, Pokhara, Nepal. dilasmagm@hotmail.com"
+},
+"1140": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.3109/10428194.2013.821703",
+"urls": [],
+"affil": "Department of Pathology, University of Vermont , Burlington, VT , USA."
+},
+"1158": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1136/jclinpath-2012-201423",
+"urls": [],
+"affil": "Hematology Laboratory, Clalit Health Services, Rabin Medical Center, Petah Tikva, Israel."
+},
+"1166": {
+"pmcid": "PMC3563449",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.1186/1471-2431-13-15",
+"urls": [
+"https://bmcpediatr.biomedcentral.com/counter/pdf/10.1186/1471-2431-13-15",
+"https://europepmc.org/articles/PMC3563449",
+"https://europepmc.org/articles/PMC3563449?pdf=render"
+],
+"affil": "Department GF Ingrassia, University of Catania, Via Santa Sofia 87, Catania 95123, Italy."
+},
+"1186": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1515/cclm-2012-0147",
+"urls": [],
+"affil": ""
+},
+"1206": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1111/j.1751-553x.2012.01432.x",
+"urls": [],
+"affil": "Departments of Laboratory Medicine, College of Medicine, Dong-A University, Busan, Korea."
+},
+"1251": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1002/pbc.22907",
+"urls": [],
+"affil": "Department of Pediatrics, Charit\u00e9 - Universit\u00e4tsmedizin Berlin, Berlin, Germany."
+},
+"1253": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1016/j.clml.2011.06.003",
+"urls": [],
+"affil": "Service d'H\u00e9matologie Clinique, H\u00f4pital Edouard Herriot, Hospices Civils de Lyon, Lyon, France. xavier.thomas@chu-lyon.fr"
+},
+"1276": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.4103/0377-4929.77329",
+"urls": [
+"https://doi.org/10.4103/0377-4929.77329"
+],
+"affil": "Department of Hematology, Postgraduate Institute of Medical Education and Research, Chandigarh 160 012, India."
+},
+"1286": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.3343/kjlm.2010.30.6.540",
+"urls": [
+"http://www.kslm.org/english/catalog.php?year=2010&vol=30&page=540"
+],
+"affil": "Department of Laboratory Medicine, The Catholic University of Korea College of Medicine, Seoul, Korea."
+},
+"1337": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1097/mph.0b013e3181b9c95d",
+"urls": [],
+"affil": ""
+},
+"1343": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1007/s10439-009-9866-z",
+"urls": [],
+"affil": "Department of Electrical & Computer, Center for Advanced Technology and Education, Florida International University, 10555 W. Flagler Street, EAS 2672, Miami, FL 33174, USA. adjouadi@fiu.edu"
+},
+"1348": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1055/s-0029-1239538",
+"urls": [],
+"affil": "Klinikum Dortmund, Westf\u00e4lisches Kinderzentrum, Dortmund, Germany. Benedikt.Bernbeck@klinikumdo.de"
+},
+"1364": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1007/s00296-009-1064-7",
+"urls": [],
+"affil": "Pediatric Allergy and Immunology Unit, Advanced Pediatric Centre, Chandigarh, India."
+},
+"1372": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": null,
+"urls": [],
+"affil": "Department of Haematology, All India Institute of Medical Sciences, New Delhi, India."
+},
+"1375": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": null,
+"urls": [],
+"affil": "Department of Pediatrics Prof I. Andreev, Medical University, Plovdiv, Bulgaria."
+},
+"1381": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.4103/0019-509x.49156",
+"urls": [],
+"affil": "Hematopathology Laboratory, Tata Memorial Hospital (TMH), Mumbai, India. s_gujral@hotmail.com"
+},
+"1382": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": null,
+"urls": [],
+"affil": "Oncology Unit, National Institute of Child Health, Karachi, Pakistan."
+},
+"1386": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": null,
+"urls": [],
+"affil": "Division of Pediatric Hematology, Department of Pediatrics, Hacettepe University Faculty of Medicine, Ankara, Turkey."
+},
+"1394": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1097/mph.0b013e318182e7a9",
+"urls": [],
+"affil": "Department of Pediatrics, Jordan University of Science and Technology, Irbid, Jordan. sweedan@just.edu.jo"
+},
+"1410": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1258/td.2008.070422",
+"urls": [
+"http://td.rsmjournals.com/cgi/content/abstract/38/4/241"
+],
+"affil": "Department of Pediatrics, Institute of Medical Sciences, Banaras Hindu University, Varanasi 221005, India. vineetaguptabhu@gmail.com"
+},
+"1412": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.3324/haematol.13156",
+"urls": [
+"https://haematologica.org/article/download/5069/21152",
+"http://www.haematologica.org/journal/2008/11/1652.html"
+],
+"affil": "University Children's Hospital Zurich, Steinwiesstrasse 75 Zurich, 8032 Switzerland."
+},
+"1431": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "03.2008/jcpsp.163167",
+"urls": [],
+"affil": "Department of Paediatrics, Liaquat University of Medical and Health Sciences, Hyderabad. shaziamemon-ap@hotmail.com"
+},
+"1451": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1097/bpo.0b13e31815ff350",
+"urls": [],
+"affil": "Sandro Agostini Spine Surgery Unit, Padua University Hospital, Padua, Italy. riccardo.sinigaglia@hotmail.com"
+},
+"1489": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1080/08880010701198845",
+"urls": [],
+"affil": "Department of Hematology, All India Institute of Medical Sciences, New Delhi, India."
+},
+"1498": {
+"pmcid": "PMC2656700",
+"oa": "N",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.1007/s11832-007-0013-9",
+"urls": [
+"https://europepmc.org/articles/PMC2656700",
+"https://europepmc.org/articles/PMC2656700?pdf=render",
+"https://doi.org/10.1007/s11832-007-0013-9"
+],
+"affil": "Department of Pediatric Orthopaedics, Dana Children's Hospital, Tel Aviv Sourasky Medical Center and Sackler Faculty of Medicine, Tel Aviv University, 6 Weizmann Street, Tel Aviv, 62439, Israel, eemam"
+},
+"1532": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1542/peds.2005-1515",
+"urls": [],
+"affil": "Department of Pediatric Rheumatology, Children's National Medical Center, George Washington University, Washington, DC 20010, USA. oyjones@cnmc.org"
+},
+"1552": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": null,
+"urls": [],
+"affil": "Departments of Pathology & Blood Bank, Christian Medical College & Hospital, Ludhiana, Punjab. n_kakkar@satyam.net.in"
+},
+"1578": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1097/01202412-200505000-00003",
+"urls": [],
+"affil": "Department of Orthopaedic Surgery, Kobe Children's Hospital, Kobe, Japan. k-daichan@ma7.seikyou.ne.jp"
+},
+"1622": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.4103/0019-509x.13053",
+"urls": [
+"https://doi.org/10.4103/0019-509x.13053"
+],
+"affil": "Haematopathology, Laboratory, Department of Medical Oncology, Tata Memorial Hospital, Mumbai, India."
+},
+"1625": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1590/s0021-75572002000600007",
+"urls": [
+"http://repositorio.unifesp.br/handle/11600/1553"
+],
+"affil": "Dep de Pediatria, Universidade Federal de S\u00e3o Paulo, SP. cassia@vicnet.com.br"
+},
+"1632": {
+"pmcid": "PMC1770090",
+"oa": "N",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.1136/jcp.56.10.772",
+"urls": [
+"https://europepmc.org/articles/PMC1770090",
+"https://europepmc.org/articles/PMC1770090?pdf=render",
+"https://doi.org/10.1136/jcp.56.10.772"
+],
+"affil": "Department of Clinical Chemistry, University Medical Centre St Radboud, 6500 HB Nijmegen, The Netherlands. w.vandermeer@akc.umcn.nl"
+},
+"1710": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1097/00043426-200110000-00004",
+"urls": [],
+"affil": "Hematology/Oncology Department, Hospital de Pediatr\u00eda SAMIC Prof. Dr. Juan P. Garrahan, Buenos Aires, Argentina. mfelice@dd.com.ar"
+},
+"1756": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": null,
+"urls": [],
+"affil": ""
+},
+"1768": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": null,
+"urls": [],
+"affil": "University of Hamburg Children's Hospital."
+},
+"1793": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1093/ajcp/111.6.733",
+"urls": [
+"https://academic.oup.com/ajcp/article-pdf/111/6/733/24979881/ajcpath111-0733.pdf"
+],
+"affil": "Section of Hematopathology, University of Texas M.D. Anderson Cancer Center, Houston 77030-4095, USA."
+},
+"1812": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1097/00000441-199901000-00004",
+"urls": [],
+"affil": "Department of Haematology, University of Zimbabwe School of Medicine, Harare. savage@cuccfa.ccc.columbia.edu"
+},
+"1875": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1159/000203623",
+"urls": [],
+"affil": "Centraal Klinisch Chemisch Laboratorium, van het Academisch Ziekenhuis Nijmegen, St. Radboud, The Netherlands."
+},
+"1883": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": null,
+"urls": [],
+"affil": "Servicio de Hematolog\u00eda, Hospital Universitari Germans Trias i Pujol, Badalona."
+},
+"1888": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1093/ajcp/106.3.352",
+"urls": [
+"https://academic.oup.com/ajcp/article-pdf/106/3/352/24878936/ajcpath106-0352.pdf"
+],
+"affil": "Department of Laboratory Medicine and Pathology, Mayo Clinic, Rochester, Minnesota, USA."
+},
+"1910": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": null,
+"urls": [],
+"affil": "Secci\u00f3n Hematolog\u00eda, Facultad de Medicina, Universidad de Chile (Campus Oriente), Hospital del Salvador, Santiago de Chile."
+},
+"1927": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1093/ajcp/104.5.495",
+"urls": [],
+"affil": "Laboratoire d'H\u00e9matologie, H\u00f4pital Haut-L\u00e9v\u00e8que, CHU Bordeaux, France."
+},
+"1937": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": null,
+"urls": [],
+"affil": "Department of Haematology, Royal Liverpool University Hospital, UK."
+},
+"1952": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1159/000204082",
+"urls": [],
+"affil": "Haematology Laboratory, La Paz Hospital, Madrid, Spain."
+},
+"1997": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": null,
+"urls": [],
+"affil": "Department of Medicine, Rawalpindi Medical College."
+},
+"2008": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1007/bf01695969",
+"urls": [],
+"affil": "Department of Hematology, Dr. Daniel den Hoed Cancer Center, Rotterdam, The Netherlands."
+},
+"2050": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1159/000204655",
+"urls": [],
+"affil": "Department of Haematology, University College Hospital, London, UK."
+},
+"2081": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1111/j.1442-200x.1990.tb00872.x",
+"urls": [],
+"affil": "Department of Pediatrics, Faculty of Medicine, Kyushu University, Fukuoka, Japan."
+},
+"2086": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1016/s0022-3476(05)80535-9",
+"urls": [],
+"affil": "Department of Pediatrics, University of Texas Southwestern Medical Center, Dallas 75235-9063."
+},
+"2120": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1002/ajh.2830310109",
+"urls": [],
+"affil": "Department of Pediatrics, Children's Hospital of Pittsburgh, PA 15213."
+},
+"2131": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1111/j.1365-2257.1989.tb00192.x",
+"urls": [],
+"affil": "Department of Haematology, Groote Schuur Hospital, Cape Town, South Africa."
+},
+"2136": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1097/00043426-198921000-00003",
+"urls": [],
+"affil": "Polly Annenberg Levee Hematology Center, Department of Medicine, New York, NY."
+},
+"2148": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": null,
+"urls": [],
+"affil": "Department of Pathology, University of Pittsburgh School of Medicine, PA."
+},
+"2159": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1002/1097-0142(19880201)61:3<589::aid-cncr2820610328>3.0.co;2-l",
+"urls": [],
+"affil": "Department of Hematology/Oncology, St. Jude Children's Research Hospital, Memphis, TN 38101."
+},
+"2175": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": null,
+"urls": [],
+"affil": ""
+},
+"2177": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1093/ajcp/88.3.314",
+"urls": [],
+"affil": ""
+},
+"2178": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1111/j.1365-2141.1987.tb01329.x",
+"urls": [],
+"affil": "Istituto di Semeiotica Medica, Universita' Cattolica del Sacro Cuore, Roma, Italy."
+},
+"2182": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1111/j.1365-2141.1987.tb06886.x",
+"urls": [],
+"affil": ""
+},
+"2203": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1111/j.1365-2141.1986.tb07533.x",
+"urls": [],
+"affil": ""
+},
+"2208": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1182/blood.v67.4.1193.bloodjournal6741193",
+"urls": [
+"http://www.bloodjournal.org/cgi/content/abstract/67/4/1193",
+"https://doi.org/10.1182/blood.v67.4.1193.bloodjournal6741193"
+],
+"affil": ""
+},
+"2220": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1111/j.1365-2257.1986.tb00073.x",
+"urls": [],
+"affil": ""
+},
+"2280": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1159/000206376",
+"urls": [
+"https://www.karger.com/Article/Pdf/206376"
+],
+"affil": ""
+},
+"2281": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1182/blood.v63.1.216.216",
+"urls": [
+"http://www.bloodjournal.org/cgi/content/abstract/63/1/216",
+"https://doi.org/10.1182/blood.v63.1.216.216"
+],
+"affil": ""
+},
+"2283": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": null,
+"urls": [],
+"affil": ""
+},
+"2306": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": null,
+"urls": [],
+"affil": ""
+},
+"2326": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1111/j.1365-2141.1982.tb01910.x",
+"urls": [],
+"affil": ""
+},
+"2342": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1111/j.1365-2141.1981.tb07241.x",
+"urls": [],
+"affil": ""
+},
+"2343": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1002/1097-0142(19810915)48:6<1410::aid-cncr2820480624>3.0.co;2-4",
+"urls": [
+"https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/1097-0142%2819810915%2948%3A6%3C1410%3A%3AAID-CNCR2820480624%3E3.0.CO%3B2-4"
+],
+"affil": ""
+},
+"2344": {
+"pmcid": "PMC1627299",
+"oa": "N",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.1136/adc.56.9.684",
+"urls": [
+"https://europepmc.org/articles/PMC1627299",
+"https://europepmc.org/articles/PMC1627299?pdf=render",
+"https://doi.org/10.1136/adc.56.9.684"
+],
+"affil": ""
+},
+"2353": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1002/1097-0142(19810515)47:10<2460::aid-cncr2820471025>3.0.co;2-4",
+"urls": [],
+"affil": ""
+},
+"2363": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1159/000207155",
+"urls": [],
+"affil": ""
+},
+"2389": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1111/j.1365-2141.1979.tb05846.x",
+"urls": [],
+"affil": ""
+},
+"2416": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1093/ajcp/68.4.449",
+"urls": [],
+"affil": ""
+},
+"2447": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1002/cncr.2820360926",
+"urls": [],
+"affil": ""
+},
+"2449": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1111/j.1365-2141.1975.tb00858.x",
+"urls": [],
+"affil": ""
+},
+"2450": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1111/j.0954-6820.1975.tb19524.x",
+"urls": [],
+"affil": ""
+},
+"2474": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": null,
+"urls": [],
+"affil": ""
+},
+"2477": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1002/art.1780150404",
+"urls": [],
+"affil": ""
+},
+"2480": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1177/000992287201100411",
+"urls": [],
+"affil": ""
+},
+"2484": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1177/000992287101001010",
+"urls": [],
+"affil": ""
+},
+"2493": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": null,
+"urls": [],
+"affil": ""
+},
+"2624": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1111/j.1440-1754.2011.02230.x",
+"urls": [],
+"affil": "Department of Paediatric Medicine, Haematology Oncology Service, KK Women's and Children's Hospital, Singapore. pault1@chw.edu.au"
+},
+"2676": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.21203/rs.3.rs-7283529/v1",
+"urls": [
+"https://doi.org/10.21203/rs.3.rs-7283529/v1"
+],
+"affil": ""
+},
+"2682": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.21203/rs.3.rs-8168085/v1",
+"urls": [
+"https://doi.org/10.21203/rs.3.rs-8168085/v1"
+],
+"affil": ""
+},
+"2686": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.20944/preprints202408.1254.v1",
+"urls": [
+"https://doi.org/10.20944/preprints202408.1254.v1",
+"https://doi.org/10.20944/preprints202408.1254.v1"
+],
+"affil": ""
+},
+"2700": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.21203/rs.3.rs-2299384/v1",
+"urls": [
+"https://www.researchsquare.com/article/rs-2299384/latest.pdf",
+"https://doi.org/10.21203/rs.3.rs-2299384/v1"
+],
+"affil": ""
+},
+"18": {
+"pmcid": "PMC13634493",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.7759/cureus.115747",
+"urls": [
+"https://europepmc.org/articles/PMC13634493",
+"https://europepmc.org/articles/PMC13634493?pdf=render"
+],
+"affil": "Internal Medicine, H\u00f4pital Riviera-Chablais, Rennaz, CHE."
+},
+"22": {
+"pmcid": "PMC13552804",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.1515/almed-2025-0184",
+"urls": [
+"https://europepmc.org/articles/PMC13552804",
+"https://europepmc.org/articles/PMC13552804?pdf=render"
+],
+"affil": "Institut Catal\u00e0 Oncologia, Girona, Spain."
+},
+"57": {
+"pmcid": "PMC13367599",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.4103/jfmpc.jfmpc_1941_25",
+"urls": [
+"https://europepmc.org/articles/PMC13367599",
+"https://europepmc.org/articles/PMC13367599?pdf=render"
+],
+"affil": "Family Medicine Residency Program, Lakeland Regional Health, Lakeland, FL, United States."
+},
+"64": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.2169/internalmedicine.7470-26",
+"urls": [],
+"affil": "Department of Hematology, Hospital, National Center for Geriatrics and Gerontology, Japan."
+},
+"117": {
+"pmcid": "PMC12969912",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.1186/s12887-026-06553-8",
+"urls": [
+"https://europepmc.org/articles/PMC12969912",
+"https://europepmc.org/articles/PMC12969912?pdf=render"
+],
+"affil": "Clinical Research Development Unit, Afzalipour Hospital, Kerman University of Medical Sciences, Kerman, Iran. elahe24272@gmail.com."
+},
+"122": {
+"pmcid": "PMC12906077",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.1186/s13256-025-05768-0",
+"urls": [
+"https://europepmc.org/articles/PMC12906077",
+"https://europepmc.org/articles/PMC12906077?pdf=render"
+],
+"affil": "Internal Medicine and Clinical Immunology, Saint Joseph University - Hotel Dieu de France, Beirut, Lebanon."
+},
+"132": {
+"pmcid": "PMC12727373",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.1097/md.0000000000046684",
+"urls": [
+"https://europepmc.org/articles/PMC12727373",
+"https://europepmc.org/articles/PMC12727373?pdf=render"
+],
+"affil": "Department of Periodontology, Stomatological Hospital of Guizhou Medical University, Guiyang, China."
+},
+"151": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1111/cyt.70035",
+"urls": [],
+"affil": "Departement of Biological Hematology, H\u00f4pital D'instruction Des Arm\u00e9es Percy, Clamart, France."
+},
+"184": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1007/s12308-025-00649-3",
+"urls": [],
+"affil": "Hemato-Oncology Clinic (HOC) Vedanta, Ground floor, Niramaya Complex, Rajpath Rangoli Road, Ahmedabad, Gujarat, 390054, India."
+},
+"297": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.7754/clin.lab.2024.240116",
+"urls": [],
+"affil": ""
+},
+"392": {
+"pmcid": "PMC9934935",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.7759/cureus.33858",
+"urls": [
+"https://assets.cureus.com/uploads/case_report/pdf/131450/20230117-3375-1ty78md.pdf",
+"https://europepmc.org/articles/PMC9934935",
+"https://europepmc.org/articles/PMC9934935?pdf=render"
+],
+"affil": "Pathology, King George's Medical University, Lucknow, IND."
+},
+"414": {
+"pmcid": "PMC9728220",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.12890/2022_003635",
+"urls": [
+"https://www.ejcrim.com/index.php/EJCRIM/article/download/3635/3280",
+"https://europepmc.org/articles/PMC9728220",
+"https://europepmc.org/articles/PMC9728220?pdf=render"
+],
+"affil": "Centro Hospitalar e Universit\u00e1rio de S\u00e3o Jo\u00e3o, Porto, Portugal."
+},
+"439": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.5694/mja2.51712",
+"urls": [],
+"affil": "Royal North Shore Hospital, Sydney, NSW."
+},
+"504": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": null,
+"urls": [],
+"affil": "Larner College of Medicine, University of Vermont, Burlington, VT."
+},
+"508": {
+"pmcid": "PMC8568206",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.4314/ahs.v21i2.25",
+"urls": [
+"https://www.ajol.info/index.php/ahs/article/download/211730/199653",
+"https://europepmc.org/articles/PMC8568206",
+"https://europepmc.org/articles/PMC8568206?pdf=render"
+],
+"affil": "Baylor College of Medicine Children's Foundation Uganda, Kampala, Uganda."
+},
+"680": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1080/01443615.2019.1600480",
+"urls": [],
+"affil": "Department of Obstetrics and Gynaecology, University of Fukui , Fukui , Japan."
+},
+"747": {
+"pmcid": "PMC6041423",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.1016/j.plabm.2018.e00101",
+"urls": [
+"https://europepmc.org/articles/PMC6041423",
+"https://europepmc.org/articles/PMC6041423?pdf=render"
+],
+"affil": "Department of Clinical Laboratory, Tohoku Medical and Pharmaceutical University Hospital, Japan."
+},
+"787": {
+"pmcid": "PMC5880759",
+"oa": "N",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.1007/s11606-017-4241-5",
+"urls": [
+"https://link.springer.com/content/pdf/10.1007/s11606-017-4241-5.pdf",
+"https://europepmc.org/articles/PMC5880759",
+"https://europepmc.org/articles/PMC5880759?pdf=render",
+"https://doi.org/10.1007/s11606-017-4241-5"
+],
+"affil": "Harvard Medical School, Boston, MA, USA."
+},
+"823": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1097/mph.0000000000000899",
+"urls": [],
+"affil": "*Children's National Medical Center, Washington, DC \u2020Atlantic Health System Morristown, NJ."
+},
+"826": {
+"pmcid": "PMC5491737",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.11604/pamj.2017.26.244.10506",
+"urls": [
+"https://europepmc.org/articles/PMC5491737",
+"https://europepmc.org/articles/PMC5491737?pdf=render"
+],
+"affil": "Department of Hematology, Farhat Hached Hospital, Sousse Tunisia."
+},
+"901": {
+"pmcid": "PMC4925485",
+"oa": "N",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.1007/s12288-015-0503-8",
+"urls": [
+"https://europepmc.org/articles/PMC4925485",
+"https://europepmc.org/articles/PMC4925485?pdf=render",
+"https://doi.org/10.1007/s12288-015-0503-8"
+],
+"affil": "Department of Pediatrics, Jawaharlal Institute of Postgraduate Medical Education and Research (JIPMER), Puducherry, 605006 India."
+},
+"1012": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": null,
+"urls": [],
+"affil": ""
+},
+"1137": {
+"pmcid": "PMC3736633",
+"oa": "N",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.1136/bcr-2013-200116",
+"urls": [
+"https://europepmc.org/articles/PMC3736633",
+"https://europepmc.org/articles/PMC3736633?pdf=render",
+"https://doi.org/10.1136/bcr-2013-200116"
+],
+"affil": "Department of Pediatric Hematology/Oncology, Hurley Children's Hospital, Flint, Michigan, USA. sinoue1@hurleymc.com"
+},
+"1192": {
+"pmcid": "PMC3459388",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.5581/1516-8484.20120037",
+"urls": [
+"https://europepmc.org/articles/PMC3459388",
+"https://europepmc.org/articles/PMC3459388?pdf=render"
+],
+"affil": "Department of Hematology, Internal Medicine Division, Hospital Universitario \"Dr. Jos\u00e9 Eleuterio Gonz\u00e1lez\", Facultad de Medicina, Universidad Aut\u00f3noma de Nuevo Le\u00f3n - UANL, Monterrey, Mexico."
+},
+"1266": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1007/s12185-011-0842-7",
+"urls": [],
+"affil": "Department of Hematology/Oncology, Saitama Children's Medical Center, 2100 Magome, Iwatsuki-ku, Saitama, Japan."
+},
+"1308": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1002/ajh.21801",
+"urls": [
+"https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ajh.21801"
+],
+"affil": ""
+},
+"1309": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1007/s00296-010-1584-1",
+"urls": [],
+"affil": "Pediatric Allergy Immunology Unit, Advanced Pediatrics Centre, Postgraduate Institute of Medical Education and Research, Chandigarh, 160012, India."
+},
+"1365": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1515/jpem.2009.22.5.463",
+"urls": [],
+"affil": "Department of Medical Oncology, Dr. B. R. A. Institute Rotary Cancer Hospital, All India Institute of Medical Sciences, New Delhi, India."
+},
+"1378": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1007/s12098-009-0133-y",
+"urls": [],
+"affil": ""
+},
+"1384": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1016/j.otsr.2008.09.004",
+"urls": [],
+"affil": "Pediatric Orthopedics and Traumatology Department, Robert-Debr\u00e9 Hospital, 48, boulevard Serurier, 75935 cedex 19 Paris, France. yan.lefevre2@wanadoo.fr"
+},
+"1389": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1097/mph.0b013e31818c2619",
+"urls": [],
+"affil": "Division of Hematology/Oncology, Department of Internal Medicine, Chang Gung Memorial Hospital-Kaohsiung Medical Center, Chang Gung University College of Medicine, Kaohsiung, Taiwan."
+},
+"1429": {
+"pmcid": "PMC3453041",
+"oa": "N",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.1007/s12288-008-0025-8",
+"urls": [
+"https://europepmc.org/articles/pmc3453041?pdf=render",
+"https://europepmc.org/articles/PMC3453041",
+"https://europepmc.org/articles/PMC3453041?pdf=render",
+"https://doi.org/10.1007/s12288-008-0025-8"
+],
+"affil": "JC Patel Department of Haematology, 10th Fl MS Building, (ICMR), KEM Hospital Parel, Mumbai-, 400 012 India."
+},
+"1777": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1097/01202412-200001000-00013",
+"urls": [],
+"affil": "Orthopaedic University Clinic, Otto-von-Guericke University, Magdeburg, Germany."
+},
+"2017": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1002/1097-0142(19930101)71:1<264::aid-cncr2820710140>3.0.co;2-8",
+"urls": [],
+"affil": "Division of Pediatric Hematology-Oncology, University of Minnesota, Minneapolis."
+},
+"2030": {
+"pmcid": "PMC495147",
+"oa": "N",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.1136/jcp.45.8.697",
+"urls": [
+"https://jcp.bmj.com/content/45/8/697.full.pdf",
+"https://europepmc.org/articles/PMC495147",
+"https://europepmc.org/articles/PMC495147?pdf=render",
+"https://doi.org/10.1136/jcp.45.8.697"
+],
+"affil": "Department of Haematology, Royal Victoria Infirmary, Newcastle upon Tyne."
+},
+"2084": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1097/00004424-199009000-00024",
+"urls": [],
+"affil": "Department of Radiology, Ohio State University, Columbus 43210."
+},
+"2226": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1177/000992288502401103",
+"urls": [],
+"affil": ""
+},
+"2501": {
+"pmcid": "PMC12516013",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.1002/ccr3.71132",
+"urls": [
+"https://europepmc.org/articles/PMC12516013",
+"https://europepmc.org/articles/PMC12516013?pdf=render"
+],
+"affil": "Department of Infectious Diseases, Faculty of Medicine Mashhad University of Medical Sciences Mashhad Iran."
+},
+"2521": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": "10.1097/mph.0000000000001822",
+"urls": [],
+"affil": "Division of Pediatric Hematology Oncology."
+},
+"2562": {
+"pmcid": "PMC10767738",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.4317/jced.61067",
+"urls": [
+"https://europepmc.org/articles/PMC10767738",
+"https://europepmc.org/articles/PMC10767738?pdf=render"
+],
+"affil": "Department of Pedodontics and Preventive Dentistry, Institute of Dental Sciences, Bareilly, Uttar Pradesh, India."
+},
+"2575": {
+"pmcid": "PMC3939384",
+"oa": "Y",
+"inPMC": "Y",
+"inEPMC": "Y",
+"hasPDF": "Y",
+"doi": "10.1016/j.lrr.2013.11.002",
+"urls": [
+"https://doi.org/10.1016/j.lrr.2013.11.002",
+"https://doi.org/10.1016/j.lrr.2013.11.002",
+"https://doi.org/10.1016/j.lrr.2013.11.002",
+"https://europepmc.org/articles/PMC3939384",
+"https://europepmc.org/articles/PMC3939384?pdf=render"
+],
+"affil": "Department of Pediatrics, Aarhus University Hospital, Brendstrupgaardsvej 100, 8200 Aarhus, Denmark."
+},
+"2596": {
+"pmcid": null,
+"oa": "N",
+"inPMC": "N",
+"inEPMC": "N",
+"hasPDF": "N",
+"doi": null,
+"urls": [],
+"affil": "Centre for Ophthalmic Sciences, AIIMS, Ansari Nagar, New Delhi - 110 029. anita.sethi@vsnl.com"
+}
+}
